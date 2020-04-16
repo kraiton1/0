@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "internet-menedzher",
+    "name": "Antikrizisnyj praktikum",
     "currentPage": "ru.html",
     "theme": {
       "name": "mobirise4",
@@ -14,7 +14,7 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Merriweather",
-        "display1Size": "4",
+        "display1Size": "3.4",
         "display2Font": "Merriweather",
         "display2Size": "3",
         "display5Font": "Merriweather",
@@ -87,7 +87,18 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "cookiesAlert": false
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    }
   },
   "pages": {
     "index.html": {
