@@ -71,8 +71,8 @@
         "url": "https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700"
       }
     ],
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "https://kraiton1.github.io/0/ru.html",
     "sitemapSwitcherAuto": "on",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/128x122.png",
