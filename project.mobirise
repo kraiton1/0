@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Antikrizisnyj praktikum",
-    "currentPage": "ru.html",
+    "currentPage": "0.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -487,7 +487,7 @@
         }
       ]
     },
-    "ru.html": {
+    "0.html": {
       "settings": {
         "meta_descr": "Автор практикума: Максим Петров\nдолларовый миллионер | профессиональный инвестор | 15 лет практического опыта",
         "title": "Antikrizisnyj praktikum",
