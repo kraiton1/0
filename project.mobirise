@@ -71,11 +71,11 @@
         "url": "https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700"
       }
     ],
-    "sitemapSwitcher": true,
-    "siteUrl": "https://kraiton1.github.io/0/ru.html",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "imageResize": false,
-    "favicon": "@PROJECT_PATH@/assets/images/128x122.png",
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/54545.png",
     "robotsSwitcher": true,
     "uniqCompNum": 52,
     "versionPublish": "4.12.3",
